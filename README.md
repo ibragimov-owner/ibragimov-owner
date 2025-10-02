@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>salom</h1>
+
+<h2 align="center">🔥 Mening texnologiyalarim 🔥</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-black?logo=python&logoColor=yellow" />
+</p>
