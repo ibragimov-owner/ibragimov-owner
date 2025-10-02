@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>salom</h1>
+<h1 align="center">SaLoM</h1>
 
 <h2 align="center">🔥 Mening texnologiyalarim 🔥</h2>
 
