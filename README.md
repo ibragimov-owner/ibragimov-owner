@@ -87,5 +87,5 @@
 
 ---
 
-<h4 align="center">⭐️ Thanks for visiting my profile! ⭐️</h4>
+<h4 align="center">⭐️ Thanks for visiting my profile! ⭐️</h4>  
 
