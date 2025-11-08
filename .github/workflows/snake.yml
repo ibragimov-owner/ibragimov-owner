@@ -8,18 +8,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
-      - name: Generate Snake
+
+      - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
           github_user_name: ibragimov-owner
-          outputs: dist/github-contribution-grid-snake.svg
-      - name: Push Snake
-        uses: EndBug/add-and-commit@v9
+          outputs: dist/snake.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          author_name: "GitHub Action"
-          author_email: "action@github.com"
-          message: "Generate Snake"
-          add: "dist/github-contribution-grid-snake.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
