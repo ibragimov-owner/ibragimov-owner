@@ -1,6 +1,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=200&section=header&text=Muhammadali%20Ibragimov&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&width=435&lines=Hey+there!+I'm+Muhammadali+Ibragimov👋;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
+
+
+
 <!-- Muhammadali Ibragimov - GitHub Profile README -->
  
 <h1 align="center">👋 Hi, I'm Muhammadali Ibragimov</h1>
@@ -84,9 +89,9 @@
 <!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=react" alt="GitHub Stats"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ibragimov-owner&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
@@ -95,3 +100,6 @@
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=180&section=footer)
+
