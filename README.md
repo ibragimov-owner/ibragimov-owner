@@ -91,6 +91,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/github-contribution-grid-snake.svg)
-
-
+![Snake animation](https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg)
