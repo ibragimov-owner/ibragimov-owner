@@ -1,3 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=200&section=header&text=Muhammadali%20Ibragimov&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+
 <!-- Muhammadali Ibragimov - GitHub Profile README -->
  
 <h1 align="center">👋 Hi, I'm Muhammadali Ibragimov</h1>
