@@ -89,3 +89,8 @@
 
 <h4 align="center">⭐️ Thanks for visiting my profile! ⭐️</h4>  
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/github-contribution-grid-snake.svg)
+
+
