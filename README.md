@@ -1,91 +1,76 @@
-<!-- 💫 HEADER -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=200&section=header&text=Muhammadali%20Ibragimov&fontSize=45&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=250&section=header&text=Muhammadali%20Ibragimov&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-<div align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muhammadali+Ibragimov👋;Welcome+to+my+GitHub+Universe!;Coding+is+my+superpower+💻✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Python+Coder;Open+Source+Contributor;Creative+Designer" alt="Typing SVG" />
   </a>
-</div>
+</p>
+<!-- 🐍 Contribution Snake -->
 
 <p align="center">
-  <img src="https://github.com/ibragimov-owner.png" width="160" alt="Muhammadali Ibragimov" style="border-radius:50%;" />
+  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
 </p>
-
-
-<h2 align="center">🚀 Full-Stack Developer | AI Enthusiast | Game Designer</h2>
-
-<p align="center">
-  <a href="https://github.com/ibragimov-owner"><img src="https://img.shields.io/github/followers/ibragimov-owner?label=Followers&style=social"></a>
-  <a href="https://github.com/ibragimov-owner"><img src="https://img.shields.io/github/stars/ibragimov-owner?style=social"></a>
-  <a href="https://github.com/ibragimov-owner?tab=repositories"><img src="https://img.shields.io/badge/Projects-Open%20Source-blueviolet"></a>
-</p>
-
 ---
 
-### 👨‍💻 About Me
-> "I create digital worlds where logic meets creativity."
-
-🌍 From **Uzbekistan**  
-💡 Interested in **AI, Web Development, and Game Mechanics**  
-🧠 Currently mastering **JavaScript + Machine Learning**  
-⚡ Fun fact: I debug faster with music 🎧  
-
----
-
-### 🧰 Languages & Tools
+### 🏆 Achievements
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,react,nodejs,git,github,vscode,linux" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ibragimov-owner&theme=tokyonight&no-frame=true&column=10&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=tokyonight&hide_border=false" />
-</div>
-
-<div align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&theme=tokyonight&layout=compact&hide_border=false" />
-</div>
-
----
-
-### 🏆 GitHub Achievements
+### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibragimov-owner&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+
+
+<h2 align="center">🌐 Connect with me</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://t.me/OrgIbragimov" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="Telegram"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://github.com/ibragimov-owner" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" height="50" alt="GitHub"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://instagram.com/ibragimov_vz" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50" alt="Instagram"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://linkedin.com/in/muhammadali-ibragimov-ba5882390" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td width="20"></td>
+    <td align="center">
+      <a href="https://ibragimovportfolio.netlify.app/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" height="50" alt="Portfolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
 ---
 
-### 🌐 Connect with me
-<p align="center">
-  <a href="https://ibragimovportfolio.netlify.app/" target="_blank" title="Portfolio">
-    <img src="https://img.shields.io/badge/🌟%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio"/>
-  </a>
-  <a href="https://t.me/orgibragimov" target="_blank" title="Telegram">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://github.com/ibragimov-owner" target="_blank" title="GitHub">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/muhammadali-ibragimov-ba5882390" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/ibragimov_vz" target="_blank" title="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<h3 align="center">💚 Thank you for visiting my profile 💚</h3>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
-<h4 align="center">⭐ Thanks for visiting my profile! ⭐</h4>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=160&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer)
