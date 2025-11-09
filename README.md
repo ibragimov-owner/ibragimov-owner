@@ -12,6 +12,7 @@
   <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
 </p>
 
+
 ---
 
 <h2 align="center">🏆 Achievements</h2>
