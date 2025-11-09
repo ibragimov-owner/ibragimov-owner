@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=250&section=header&text=Muhammadali%20Ibragimov&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=250&section=header&text=Welcome%20to%20my%20profile&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,16 +11,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
 </p>
+
 ---
 
-### 🏆 Achievements
+<h2 align="center">🏆 Achievements</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ibragimov-owner&theme=tokyonight&no-frame=true&column=10&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats
+<h2 align="center">⚡ GitHub Stats </h2>
 <p align="center">
   <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -27,42 +29,26 @@
 </p>
 
 
+### 🌐 Connect with me
+<p align="center">
+  <a href="https://t.me/OrgIbragimov" target="_blank" title="Telegram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="Telegram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ibragimov-owner" target="_blank" title="GitHub">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="60" height="60" alt="GitHub"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/ibragimov_vz" target="_blank" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="60" height="60" alt="Instagram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/muhammadali-ibragimov-ba5882390" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://ibragimovportfolio.netlify.app/" target="_blank" title="Portfolio">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="60" height="60" alt="Portfolio"/>
+  </a>
+</p>
 
-<h2 align="center">🌐 Connect with me</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://t.me/OrgIbragimov" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50" alt="Telegram"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://github.com/ibragimov-owner" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="50" height="50" alt="GitHub"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://instagram.com/ibragimov_vz" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50" alt="Instagram"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://linkedin.com/in/muhammadali-ibragimov-ba5882390" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td width="20"></td>
-    <td align="center">
-      <a href="https://ibragimovportfolio.netlify.app/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="50" height="50" alt="Portfolio"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
@@ -71,6 +57,6 @@
 
 ---
 
-<h3 align="center">💚 Thank you for visiting my profile 💚</h3>
+<h1 align="center">💚 Thank you for visiting my profile 💚</h1>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=200&section=footer)
