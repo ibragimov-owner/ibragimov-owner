@@ -28,8 +28,7 @@
   <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-
-### 🌐 Connect with me
+<h2 align="center">   🌐 Connect with me </h2>
 <p align="center">
   <a href="https://t.me/OrgIbragimov" target="_blank" title="Telegram">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="60" height="60" alt="Telegram"/>
