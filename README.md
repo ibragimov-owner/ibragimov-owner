@@ -57,8 +57,7 @@
 
 
 
-
 ---
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER WAVE  -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=200&section=footer&text=Thank%20you%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=wave)
