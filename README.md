@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Python+Coder;Open+Source+Contributor;Creative+Designer" alt="Typing SVG" />
   </a>
 </p>
-<!-- 🐍 Contribution Snake -->
+<!-- 🐍 Contribution Snake --> 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/output/snake.svg" alt="snake animation" />
