@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *" # har kuni yarim tunda ishlaydi
   workflow_dispatch:
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
