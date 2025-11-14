@@ -2,9 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # har kuni yarim tunda ishlaydi
+    - cron: "0 0 * * *" # har kuni UTC 00:00 da (soatingizni inobatga oling)
   workflow_dispatch:
- 
+
+permissions:
+  contents: write   # push va fayl yozish uchun kerak
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -12,12 +15,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: ibragimov-owner
-          outputs: dist/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
