@@ -17,8 +17,7 @@
        
      
     
-  
---- 
+ 
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
@@ -29,9 +28,9 @@
 
 <h2 align="center">⚡ GitHub Stats </h2>
 <p align="center">
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=ibragimov-owner&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <h2 align="center">   🌐 Connect with me </h2>
@@ -52,6 +51,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="60" height="60" alt="Portfolio"/>
   </a>
 </p>
+
+
+
 
 
 
