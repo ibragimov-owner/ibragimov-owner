@@ -47,7 +47,7 @@
   <a href="https://linkedin.com/in/muhammadali-ibragimov-ba5882390" target="_blank" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" height="60" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://ibragimovportfolio.netlify.app/" target="_blank" title="Portfolio">
+  <a href="https://m-ibragimov.netlify.app/" target="_blank" title="Portfolio">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="60" height="60" alt="Portfolio"/>
   </a>
 </p>
