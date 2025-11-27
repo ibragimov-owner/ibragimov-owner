@@ -18,7 +18,7 @@
      
     
  
-
+ 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ibragimov-owner&theme=tokyonight&no-frame=true&column=8&margin-w=15&margin-h=15" alt="Trophies" />
