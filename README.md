@@ -1,5 +1,26 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=220&section=header&text=Welcome%20to%20my%20profile&fontSize=65&fontColor=ffffff&animation=fadeIn)
 
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:8A2BE2,100:000000&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
+</p>
+
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+
+
+
+ ██╗██████╗ ██████╗  █████╗  ██████╗ ██╗███╗   ███╗ ██████╗ ██╗   ██╗
+ ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██║████╗ ████║██╔═══██╗██║   ██║
+ ██║██████╔╝██████╔╝███████║██║  ███╗██║██╔████╔██║██║   ██║██║   ██║
+ ██║██╔══██╗██╔══██╗██╔══██║██║   ██║██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝
+ ██║██████╔╝██║  ██║██║  ██║╚██████╔╝██║██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ 
+ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝     ╚═╝ ╚═════╝   ╚═══╝
+ 
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
@@ -13,6 +34,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Frontend+Developer;Python+Coder;Open+Source+Contributor;Creative+Designer" alt="Typing SVG" />
   </a>
 </p>
+
 <!-- 🐍 Contribution Snake --> 
 
 <p align="center">
@@ -20,52 +42,15 @@
 </p>
 
 
-
-
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
+
+<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
 
+
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
 
 
 
@@ -93,6 +78,8 @@
         
 ---
 
+
+   
 <h2 align="center">⚡ GitHub Stats </h2>
 <p align="center">
   <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=ibragimov-owner&show_icons=true&theme=tokyonight&hide_border=true" alt="" />
@@ -100,10 +87,40 @@
   <img height="160" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibragimov-owner&layout=compact&theme=tokyonight&hide_border=true" alt="" />
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibragimov-owner&theme=tokyonight"/>
+</p>
+
+--- 
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibragimov-owner&theme=tokyonight"/>
+</p>
+ 
+<h2 align="center">📊 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibragimov-owner&theme=tokyo-night&hide_border=true"/>
+</p>
+
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
+ 
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+</p>
+
+
+
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+---
 
 
 <h2 align="center">   🌐 Connect with me </h2>
@@ -128,6 +145,12 @@
 
 
 
+<!--chiziqni kodi-->
+<img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
+     style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
+     alt="Rainbow Line">
+
+<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
 
 ![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
@@ -141,3 +164,13 @@
 
 <!-- FOOTER WAVE -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=180&section=footer&text=Thank%20you%20for%20visiting!&fontSize=55&fontColor=ffffff&animation=wave)
+
+
+
+
+
+
+
+
+
+
