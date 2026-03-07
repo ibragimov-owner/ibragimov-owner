@@ -13,14 +13,18 @@
      alt="Rainbow Line">
 
 
-
+<pre align="center">
  ██╗██████╗ ██████╗  █████╗  ██████╗ ██╗███╗   ███╗ ██████╗ ██╗   ██╗
  ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██║████╗ ████║██╔═══██╗██║   ██║
  ██║██████╔╝██████╔╝███████║██║  ███╗██║██╔████╔██║██║   ██║██║   ██║
  ██║██╔══██╗██╔══██╗██╔══██║██║   ██║██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝
- ██║██████╔╝██║  ██║██║  ██║╚██████╔╝██║██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝ 
- ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝     ╚═╝ ╚═════╝   ╚═══╝
- 
+██║██████╔╝██║  ██║██║  ██║╚██████╔╝██║██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝
+╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═══╝
+</pre>
+
+
+
+
 <!--chiziqni kodi-->
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
@@ -50,6 +54,15 @@
 
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
+
+
+
+
+<!-- Metrics -->     
+<p align="center">
+  <img src="https://github.com/ibragimov-owner/ibragimov-owner/actions/workflows/metrics.yml/badge.svg" alt="GitHub Metrics" />
+</p>
+
 
 
 
@@ -107,12 +120,12 @@
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
- 
-<h2 align="center">🛠 Tech Stack</h2>
-
+     
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,go,git,github,vscode,docker,kubernetes,aws,pnpm,mysql,postgres,jenkins,kafka,nginx,swift,apple,ps,ai&perline=14" width="100%" />
 </p>
+
+<div align="center">
 
 
 
