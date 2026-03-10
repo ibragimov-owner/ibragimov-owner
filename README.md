@@ -59,10 +59,7 @@
 
 
 <!-- Metrics -->     
-<p align="center">
-  <img src="https://github.com/ibragimov-owner/ibragimov-owner/actions/workflows/metrics.yml/badge.svg" alt="GitHub Metrics" />
-</p>
-
+![Metrics](https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/main/github-metrics.svg)
 
 
 
