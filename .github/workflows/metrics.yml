@@ -1,11 +1,16 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
@@ -18,17 +23,17 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_limit: 10
-          plugin_languages_sections: most-used
 
           plugin_lines: yes
-          plugin_followup: yes
-          plugin_achievements: yes
-          plugin_achievements_limit: 20
 
           plugin_isocalendar: yes
+
           plugin_habits: yes
-          plugin_habits_charts: yes
           plugin_habits_days: 14
+          plugin_habits_charts: yes
+
+          plugin_achievements: yes
+          plugin_achievements_limit: 20
 
           plugin_stars: yes
           plugin_stars_limit: 4
@@ -37,4 +42,3 @@ jobs:
           plugin_people_limit: 24
 
           plugin_repositories: yes
-          plugin_repositories_featured: ibragimov-owner/auto-commit
