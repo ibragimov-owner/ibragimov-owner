@@ -14,12 +14,12 @@
 
 
 <pre align="center">
- ██╗██████╗ ██████╗  █████╗  ██████╗ ██╗███╗   ███╗ ██████╗ ██╗   ██╗
- ██║██╔══██╗██╔══██╗██╔══██╗██╔════╝ ██║████╗ ████║██╔═══██╗██║   ██║
- ██║██████╔╝██████╔╝███████║██║  ███╗██║██╔████╔██║██║   ██║██║   ██║
- ██║██╔══██╗██╔══██╗██╔══██║██║   ██║██║██║╚██╔╝██║██║   ██║╚██╗ ██╔╝
-██║██████╔╝██║  ██║██║  ██║╚██████╔╝██║██║ ╚═╝ ██║╚██████╔╝ ╚████╔╝
-╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝╚═╝     ╚═╝ ╚═════╝  ╚═══╝
+ ██╗   ██████╗   ██████╗   █████╗    ██████╗   ██╗   ███╗   ███╗   ██████╗   ██╗   ██╗ 
+ ██║   ██╔══██╗  ██╔══██╗  ██╔══██╗  ██╔════╝  ██║   ████╗ ████║  ██╔═══██╗  ██║   ██║ 
+ ██║   ██████╔╝  ██████╔╝  ███████║  ██║  ███╗ ██║   ██╔████╔██║  ██║   ██║  ██║   ██║ 
+ ██║   ██╔══██╗  ██╔══██╗  ██╔══██║  ██║   ██║ ██║   ██║╚██╔╝██║  ██║   ██║  ╚██╗ ██╔╝ 
+ ██║   ██████║   ██║  ██║  ██║  ██║  ╚██████╔╝ ██║   ██║ ╚═╝ ██║  ╚██████╔╝   ╚████╔╝  
+ ╚═╝   ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝  ╚═╝   ╚═════╝  ╚═╝   ╚═╝     ╚═╝   ╚═════╝     ╚═══╝   
 </pre>
 
 
@@ -59,7 +59,7 @@
 
 
 <!-- Metrics -->     
-![Metrics](https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/main/github-metrics.svg)
+<!--![Metrics](https://raw.githubusercontent.com/ibragimov-owner/ibragimov-owner/main/github-metrics.svg) -->
 
 
 
@@ -119,7 +119,7 @@
      alt="Rainbow Line">
      
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,mongodb,py,go,git,github,vscode,docker,kubernetes,aws,pnpm,mysql,postgres,jenkins,kafka,nginx,swift,apple,ps,ai&perline=14" width="100%" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,github,vscode,instagram,windows,linux,kali,ai&perline=14" width="100%" />
 </p>
 
 <div align="center">
