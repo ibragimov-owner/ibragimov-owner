@@ -39,6 +39,21 @@
   </a>
 </p>
 
+
+
+
+![68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667](https://github.com/user-attachments/assets/da266024-63a4-4d84-8d29-a5b1ed013cd2)
+
+
+![custom-dark](https://github.com/user-attachments/assets/7a7b9a79-76d8-4ae9-8222-ab7eb32638fd)
+
+
+![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
+
+
+<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
+
+
 <!-- 🐍 Contribution Snake --> 
 
 <p align="center">
@@ -46,11 +61,7 @@
 </p>
 
 
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
-<img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
-
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
+<!--![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b) -->
 
 
 ![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
@@ -130,6 +141,7 @@
 <img src="https://github.com/user-attachments/assets/2127c7c0-3cbb-41f4-849b-18bed46529ca" 
      style="width: 100%; height: auto; display: block; margin: 0; padding: 0;" 
      alt="Rainbow Line">
+     
 ---
 
 
@@ -163,17 +175,13 @@
 <img width="1011" height="136" alt="image" src="https://github.com/user-attachments/assets/fad24ce2-4040-47bd-9cb9-24fd9ef3df1b" />
 
 
-![snake](https://github.com/user-attachments/assets/7ad76be1-271d-46e0-b030-6c74f6f4086b)
-
-![pacman-contribution-graph-dark](https://github.com/user-attachments/assets/f8f6d733-d2b5-41dc-82c0-92b95f70b505)
-
 
 
 
 ---
 
 <!-- FOOTER WAVE -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=180&section=footer&text=Thank%20you%20for%20visiting!&fontSize=55&fontColor=ffffff&animation=wave)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=007700&height=180&section=footer&text=Thank%20you%20for%20visiting!&fontSize=55&fontColor=ff55ff&animation=wave)
 
 
 
